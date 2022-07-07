@@ -1,0 +1,6 @@
+venv
+db.salite3
+.idea
+idea/workspace.xal
+__pycache__
+media
